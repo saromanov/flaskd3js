@@ -11,6 +11,12 @@ p {
 	color: black;
 }
 
+div.circle {
+	display: inline;
+	width: 20px;
+	height: 70px;
+}
+
 h1, a {
 	color:blue;
 }
